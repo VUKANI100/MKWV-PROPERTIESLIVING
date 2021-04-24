@@ -1,2 +1,2 @@
-# VukaniBuilders
+# Vukani
 Blue Print for Vukani
